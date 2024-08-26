@@ -1,6 +1,4 @@
-<a href="https://velog.io/@boy672820" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" ></a> [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=boy672820)](https://solved.ac/boy672820)
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
+<a href="https://velog.io/@boy672820" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" ></a> [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=boy672820)](https://solved.ac/boy672820) <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
